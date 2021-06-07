@@ -1,6 +1,6 @@
 //Bubble Sort
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class BubbleSort {
 

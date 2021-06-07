@@ -1,6 +1,6 @@
 //Selection Sort for String
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class SelectionSort1 {
 

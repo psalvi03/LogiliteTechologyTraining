@@ -1,6 +1,6 @@
 //Heap sort
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class HeapSort {
 
