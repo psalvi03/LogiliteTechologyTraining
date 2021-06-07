@@ -1,6 +1,6 @@
 //Insertion Sort for int
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class InsertionSort {
 

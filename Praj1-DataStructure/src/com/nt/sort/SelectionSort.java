@@ -1,6 +1,6 @@
 //Selection Sort for Int
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class SelectionSort {
 

@@ -1,6 +1,6 @@
 //Binary search
 
-package com.ds.sort;
+package com.nt.sort;
 
 public class BinarySearch {
 
